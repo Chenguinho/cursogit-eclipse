@@ -2,6 +2,8 @@ Cambio arriba
 
 Cambio arriba 2 ole
 
+Cambio conflictivo 1
+
 Cambios para la prueba de GitHub.
 
 Cambio hecho por x persona.
